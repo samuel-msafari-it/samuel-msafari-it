@@ -1,41 +1,34 @@
-🚀 Samuel Msafari | Information Systems & Security Strategy
-Enterprise IT Leader | Cloud Architect | Security Operations Expert
+# Samuel Msafari | IT Operations & Service Delivery Leader
 
-Highly experienced Information Systems Manager with over two decades of experience overseeing enterprise IT infrastructure, cybersecurity operations, and digital transformations. I specialize in building secure, scalable foundations for high-growth organizations by bridging the gap between technical operations and organizational objectives.
+IT Operations Leader operating at Operational Manager scope across Corporate IT platforms. Expert in directing cross-functional engineering teams, automating user lifecycles, and optimizing ITIL service delivery for organizations of 1,000–3,500 users. Focused on aligning infrastructure scalability with enterprise governance and business velocity.
 
-🛡️ Core Expertise
-Modern SaaS Operations: End-to-end management of distributed IT environments and cloud-native stacks.
+## 📊 Operational Scale & Impact
 
-Cybersecurity Hardening: Proven track record of raising Microsoft Secure Scores from 38% to 90%+.
+- **Enterprise Cloud Migration:** Directed a 15-person cross-regional team to migrate 1,000+ enterprise users to Microsoft 365 with zero downtime, establishing a 91% aggregate Microsoft Secure Score baseline.
+- **Service Desk Optimization:** Reduced service desk resolution times by 28% through targeted automation, structured reporting pathways, and engineer mentoring.
+- **Queue Analytics (Microsoft Business Assist):** Optimized global case triage and ticket assignment workflows using workload analytics, boosting assignment efficiency by 22% while maintaining a 91% CSAT score.
+- **Process Automation:** Co-project led the integration of SharePoint Online with on-premises SAP infrastructure, eliminating paper-based HR processing workflows for 1,000+ employees.
 
-Identity & Access Management: Expert-level implementation of Microsoft Entra (IdP), MFA, and Hardware-Based Authentication.
+## 🛠️ Core Technology Stack
 
-Infrastructure Automation: Developing Built scalable identity workflows and PowerShell automation to reduce manual overhead by 11%.
+- **ITSM & Operations:** ServiceNow, ITIL Foundations, Jira, Power BI, Vendor & SLA Governance
+- **Cloud Infrastructure:** Microsoft 365 Administration, Azure Portal, Intune (UEM/MDM), SharePoint Online, Exchange
+- **Identity & Security:** Microsoft Entra ID (IAM/JML Automation), Sentinel (SIEM/SOAR), Defender XDR, Purview, AI Agent Security
+- **Automation & Protocols:** PowerShell Scripting, SQL Server, TLS/SSL, DNS, Network Protocols
 
-📊 Impact at a Glance
-1,000+ User Migrations: Successfully remodeled legacy on-premises environments into cloud-first infrastructures.
+## 📂 Production-Grade Repositories
 
-20% Cost Reduction: Leveraged Microsoft Purview to automate data governance and slash legal operational spend.
+### 🔧 [Automation-Workflows](https://github.com/samuel-msafari/Automation-Workflows)
+Production PowerShell scripts for automated Joiners, Movers, and Leavers (JML) user lifecycle management. Automates user provisioning in Active Directory, department group mappings, M365 license assignment via Entra ID, and secure account deactivation on exit.
 
-91% SLA Satisfaction: Optimized support queue workflows and ticket resolution across global distributed teams.
+### 📋 [IT-Operations-Governance-Templates](https://github.com/samuel-msafari/IT-Operations-Governance-Templates)
+Standard operating procedures (SOPs), access lifecycle controls, and asset management frameworks aligned with ITIL service reliability standards and ISO 27001/GDPR awareness. Includes next-gen guidelines for AI workload risk management.
 
-🛠️ Technical Stack
-Security: Microsoft Sentinel, Microsoft Defender, Microsoft Purview, Splunk.
+### 🗺️ [Strategic-IT-Roadmap](https://github.com/samuel-msafari/Strategic-IT-Roadmap)
+Architectural milestone maps and queue-stabilization strategies designed for incoming IT management to baseline security posture, enroll endpoints via Intune, and deploy automated IAM controls within the first 90 days.
 
-Infrastructure: Microsoft 365, Azure, Intune (MDM), JumpCloud.
+## 📫 Corporate Connectivity
 
-Identity: Microsoft Entra ID, YubiKeys, Conditional Access.
-
-Languages & Tools: PowerShell, ServiceNow, SAP, Power BI.
-
-📂 Featured Repositories
-[IT-Security-Governance-Templates]: Open-source best practice documentation for remote-first startups.
-
-[Automation-Workflows]: PowerShell scripts for automated user offboarding and security auditing.
-
-[Strategic-IT-Roadmap]: Architectural blueprints for the "First 90 Days" of a foundational IT hire.
-
-📫 Connect With Me
-💼 Portfolio: 
-🔗 LinkedIn: www.linkedin.com/in/samuel-msafari
-📧 Email: samuel.msafari@gmail.com
+- 💼 **Executive Portfolio:** [samuel-msafari.lovable.app](https://samuel-msafari.lovable.app/)
+- 🔗 **LinkedIn Presence:** [linkedin.com/in/samuel-msafari](https://www.linkedin.com/in/samuel-msafari/)
+- 📧 **Enterprise Mail:** samuel.msafari@gmail.com
