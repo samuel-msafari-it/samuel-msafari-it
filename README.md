@@ -12,11 +12,11 @@ IT Operations Leader operating at Operational Manager scope across Corporate IT 
 ## 🛠️ Core Technology Stack
 
 - **ITSM & Operations:** ServiceNow, ITIL Foundations, Jira, Power BI, Vendor & SLA Governance
-- **Cloud Infrastructure:** Microsoft 365 Administration, Azure Portal, Intune (UEM/MDM), SharePoint Online, Exchange
+- **Cloud Infrastructure:** Microsoft 365 Administration, Azure Portal, Intune (UEM/MDM), SharePoint Online, Exchange Online, Google Workspace
 - **Identity & Security:** Microsoft Entra ID (IAM/JML Automation), Sentinel (SIEM/SOAR), Defender XDR, Purview, AI Agent Security
 - **Automation & Protocols:** PowerShell Scripting, SQL Server, TLS/SSL, DNS, Network Protocols
 
-## 📂 Production-Grade Repositories
+## 📂 Featured Repositories
 
 ### 🔧 [Automation-Workflows](https://github.com/samuel-msafari/Automation-Workflows)
 Production PowerShell scripts for automated Joiners, Movers, and Leavers (JML) user lifecycle management. Automates user provisioning in Active Directory, department group mappings, M365 license assignment via Entra ID, and secure account deactivation on exit.
@@ -27,7 +27,7 @@ Standard operating procedures (SOPs), access lifecycle controls, and asset manag
 ### 🗺️ [Strategic-IT-Roadmap](https://github.com/samuel-msafari/Strategic-IT-Roadmap)
 Architectural milestone maps and queue-stabilization strategies designed for incoming IT management to baseline security posture, enroll endpoints via Intune, and deploy automated IAM controls within the first 90 days.
 
-## 📫 Corporate Connectivity
+## 📫 Connect with me
 
 - 💼 **Executive Portfolio:** [samuel-msafari.lovable.app](https://samuel-msafari.lovable.app/)
 - 🔗 **LinkedIn Presence:** [linkedin.com/in/samuel-msafari](https://www.linkedin.com/in/samuel-msafari/)
